@@ -15,6 +15,6 @@ Note: THe STS Credentials tool may move to its own repo in the future.
 
 License
 =======
-
+this is a change in the file
 These samples and templates are all licensed under Apache 2.0.
 
